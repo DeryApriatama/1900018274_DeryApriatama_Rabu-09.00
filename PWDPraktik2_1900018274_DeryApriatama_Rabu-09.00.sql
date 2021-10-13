@@ -2,7 +2,7 @@ mysql -u root -p
 
 create database akademik;
 
-show databases:
+show databases;
 
 use akademik;
 create table mahasiswa (
